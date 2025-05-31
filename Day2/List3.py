@@ -8,3 +8,4 @@ print(l)
 l.insert(1, "inseret")
 l.remove("data")
 print(l)
+

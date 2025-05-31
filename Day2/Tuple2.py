@@ -1,4 +1,3 @@
 tup = ()
-tup2 = (2)
-tup = (2,)
-print(type(tup2))
+tup2 = (2) #not a tuple
+tup3 = (2,)
