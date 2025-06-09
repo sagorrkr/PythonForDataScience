@@ -6,4 +6,3 @@ else:
     print("One not ture")
 
 print(bool(a))
-print(21<<1)
