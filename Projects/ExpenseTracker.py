@@ -7,7 +7,7 @@ class ExpenseTracker:
     def __init__(self, root):
         self.root = root
         self.root.title("Expense Tracker")
-        self.expenses = {} 
+        self.expenses = {}
         
         # GUI Elements
         tk.Label(root, text="Amount:").grid(row=0, column=0)

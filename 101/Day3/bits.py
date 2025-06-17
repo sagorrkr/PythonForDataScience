@@ -1,9 +1,0 @@
-a = 60
-b = 13
-c = 0
-c = a&b; print("1 - c:", bin(c))
-c = a|b; print("2 - c:", bin(c))
-c = a^b; print("3 - c:", bin(c))
-c = ~a; print("4 - c:", bin(c))
-c = a<<2; print("1 - c:", bin(c))
-c = a>>2; print("1 - c:", bin(c))
