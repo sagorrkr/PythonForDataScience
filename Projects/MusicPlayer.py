@@ -10,7 +10,7 @@ import logging
 
 
 class MusicPlayer:
-    # Constants for GUI styling and audio settings
+    #Constants for GUI styling and audio settings
     WINDOW_SIZE = "600x500"
     BUTTON_STYLE = {"font": ("Helvetica", 12), "width": 5}
     UPDATE_INTERVAL_MS = 1000  
@@ -27,12 +27,12 @@ class MusicPlayer:
         self.root.resizable(False, False)
 
 
-        # Setup logging for debugging
+        #Setup logging for debugging
         logging.basicConfig(filename="music_player.log", level=logging.DEBUG,
                            format="%(asctime)s - %(levelname)s - %(message)s")
 
 
-        # Initialize pygame mixer with optimized settings
+        #Initialize pygame mixer with optimized settings
         try:
             pygame.mixer.init(frequency=44100, size=-16, channels=2, buffer=self.AUDIO_BUFFER)
             pygame.mixer.music.set_volume(0.5)
@@ -44,7 +44,7 @@ class MusicPlayer:
             return
 
 
-        # State variables
+        #State variables
         self.tracks = []
         self.current_track_index = -1
         self.is_playing = False
@@ -54,7 +54,7 @@ class MusicPlayer:
         self.playback_start_time = 0
 
 
-        # Setup GUI
+        #Setup GUI
         self.setup_gui()
         self.root.protocol("WM_DELETE_WINDOW", self.on_closing)
         self.update_progress()
@@ -74,7 +74,7 @@ class MusicPlayer:
             self.album_label.pack(pady=5)
 
 
-        # Playlist frame
+        #Playlist frame
         self.playlist_frame = tk.Frame(self.root)
         self.playlist_frame.pack(pady=10, padx=10, fill=tk.BOTH, expand=True)
         self.playlist_scroll = tk.Scrollbar(self.playlist_frame)
@@ -89,12 +89,12 @@ class MusicPlayer:
         self.playlist.bind('<<ListboxSelect>>', self.on_track_select)
 
 
-        # Track info
+        #Track info
         self.track_label = tk.Label(self.root, text="No track loaded", wraplength=580, font=("Helvetica", 10))
         self.track_label.pack(pady=5)
 
 
-        # Progress bar
+        #Progress bar
         self.progress_frame = tk.Frame(self.root)
         self.progress_frame.pack(fill=tk.X, padx=20)
         self.time_label = tk.Label(self.progress_frame, text="00:00 / 00:00", font=("Helvetica", 9))
@@ -103,7 +103,7 @@ class MusicPlayer:
         self.progress.pack(fill=tk.X, pady=5)
 
 
-        # Controls
+        #Controls
         self.control_frame = tk.Frame(self.root)
         self.control_frame.pack(pady=20)
         tk.Button(self.control_frame, text="⏮", **self.BUTTON_STYLE, command=self.previous_track).pack(side=tk.LEFT, padx=5)
@@ -114,14 +114,14 @@ class MusicPlayer:
         tk.Button(self.control_frame, text="🔀", **self.BUTTON_STYLE, command=self.shuffle_tracks).pack(side=tk.LEFT, padx=5)
 
 
-        # Playlist management buttons
+        #Playlist management buttons
         tk.Button(self.root, text="Add Tracks", command=self.add_tracks).pack(side=tk.LEFT, padx=10, pady=5)
         tk.Button(self.root, text="Clear Playlist", command=self.clear_playlist).pack(side=tk.LEFT, padx=10, pady=5)
         tk.Button(self.root, text="Save Playlist", command=self.save_playlist).pack(side=tk.LEFT, padx=10, pady=5)
         #tk.Button(self.root, text="Load Playlist", command=self.load_playlist).pack(side=tk.LEFT, padx=10, pady=5)
 
 
-        # Volume
+        #Volume
         self.volume_frame = tk.Frame(self.root)
         self.volume_frame.pack(pady=5, side=tk.RIGHT, padx=20)
         tk.Label(self.volume_frame, text="Volume:").pack(side=tk.LEFT)

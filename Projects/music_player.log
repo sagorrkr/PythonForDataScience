@@ -4,3 +4,253 @@
 2025-06-17 11:36:24,438 - WARNING - Album art load failed: couldn't open "university_art.png": no such file or directory
 2025-06-17 11:36:28,090 - INFO - Pygame mixer initialized successfully
 2025-06-17 11:36:48,656 - WARNING - Album art load failed: couldn't open "university_art.png": no such file or directory
+2025-06-17 11:57:22,335 - INFO - Pygame mixer initialized successfully
+2025-06-17 11:57:28,883 - INFO - Playback stopped
+2025-06-17 11:57:28,885 - INFO - Playing at position: 0
+2025-06-17 11:57:28,885 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/3_Doors_Down_-_Here_Without_You_(Official_Video)(128k).mp3 in 0.00s
+2025-06-17 11:59:26,523 - INFO - Pygame mixer initialized successfully
+2025-06-17 12:00:31,703 - INFO - Pygame mixer initialized successfully
+2025-06-17 12:00:37,462 - INFO - Playback stopped
+2025-06-17 12:00:37,464 - INFO - Playing at position: 0
+2025-06-17 12:00:37,464 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/Ariana_Grande_-_thank_u,_next(128k).mp3 in 0.00s
+2025-06-17 12:00:39,461 - INFO - Seeking to position: 2.4668169357295158
+2025-06-17 12:00:39,502 - INFO - Seeking to position: 3.7002254035942737
+2025-06-17 12:00:39,544 - INFO - Seeking to position: 4.9336338714590315
+2025-06-17 12:00:39,629 - INFO - Seeking to position: 6.783746573256169
+2025-06-17 12:00:39,644 - INFO - Seeking to position: 8.633859275053306
+2025-06-17 12:00:39,663 - INFO - Seeking to position: 10.483971976850443
+2025-06-17 12:00:39,682 - INFO - Seeking to position: 12.334084678647578
+2025-06-17 12:00:39,694 - INFO - Seeking to position: 13.567493146512337
+2025-06-17 12:00:39,728 - INFO - Seeking to position: 14.800901614377095
+2025-06-17 12:00:55,962 - INFO - Seeking to position: 32.685324398416086
+2025-06-17 12:00:55,977 - INFO - Seeking to position: 36.38554980201036
+2025-06-17 12:00:55,994 - INFO - Seeking to position: 43.16929637526652
+2025-06-17 12:00:56,010 - INFO - Seeking to position: 53.036564118184586
+2025-06-17 12:00:56,030 - INFO - Seeking to position: 66.60405726469692
+2025-06-17 12:00:56,045 - INFO - Seeking to position: 82.0216631130064
+2025-06-17 12:00:56,060 - INFO - Seeking to position: 96.20586049345111
+2025-06-17 12:00:56,077 - INFO - Seeking to position: 109.15664940603106
+2025-06-17 12:00:56,096 - INFO - Seeking to position: 131.35800182759672
+2025-06-17 12:01:01,263 - INFO - Playback stopped
+2025-06-17 12:03:45,761 - INFO - Pygame mixer initialized successfully
+2025-06-17 12:03:58,122 - INFO - Playback stopped
+2025-06-17 12:03:58,124 - INFO - Playing at position: 0
+2025-06-17 12:03:58,125 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/Ariana_Grande_-_7_rings(128k).mp3 in 0.00s
+2025-06-17 12:03:58,125 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/Ariana_Grande_-_break_up_with_your_girlfriend,_i'm_bored(128k).mp3
+2025-06-17 12:04:00,311 - INFO - Seeking to position: 0.0
+2025-06-17 12:04:00,352 - INFO - Seeking to position: 1.0350045689917757
+2025-06-17 12:04:00,382 - INFO - Seeking to position: 2.41501066098081
+2025-06-17 12:04:00,398 - INFO - Seeking to position: 3.4500152299725855
+2025-06-17 12:04:00,415 - INFO - Seeking to position: 4.83002132196162
+2025-06-17 12:04:00,431 - INFO - Seeking to position: 5.865025890953396
+2025-06-17 12:04:00,447 - INFO - Seeking to position: 6.900030459945171
+2025-06-17 12:04:00,463 - INFO - Seeking to position: 7.935035028936947
+2025-06-17 12:04:00,480 - INFO - Seeking to position: 9.315041120925981
+2025-06-17 12:04:00,496 - INFO - Seeking to position: 11.730051781906791
+2025-06-17 12:04:00,513 - INFO - Seeking to position: 14.490063965884861
+2025-06-17 12:04:00,530 - INFO - Seeking to position: 20.010088333840997
+2025-06-17 12:04:07,119 - INFO - Seeking to position: 28.290124885775203
+2025-06-17 12:04:07,133 - INFO - Seeking to position: 30.705135546756015
+2025-06-17 12:04:07,149 - INFO - Seeking to position: 33.46514773073408
+2025-06-17 12:04:07,167 - INFO - Seeking to position: 35.88015839171489
+2025-06-17 12:04:07,181 - INFO - Seeking to position: 37.95016752969845
+2025-06-17 12:04:07,198 - INFO - Seeking to position: 40.020176667681994
+2025-06-17 12:04:07,214 - INFO - Seeking to position: 41.05518123667377
+2025-06-17 13:06:51,717 - INFO - Pygame mixer initialized successfully
+2025-06-17 13:07:23,201 - INFO - Playback stopped
+2025-06-17 13:07:23,206 - INFO - Playing at position: 0
+2025-06-17 13:07:23,206 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/5_Seconds_of_Summer_-_Easier(128k).mp3 in 0.00s
+2025-06-17 13:07:23,206 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/Adele_-_Hello(128k).mp3
+2025-06-17 13:07:38,542 - INFO - Seeking to position: 20.206737739872068
+2025-06-17 13:07:38,559 - INFO - Seeking to position: 13.912835820895523
+2025-06-17 13:07:38,592 - INFO - Seeking to position: 15.569125799573563
+2025-06-17 13:07:38,609 - INFO - Seeking to position: 16.894157782515993
+2025-06-17 13:07:38,624 - INFO - Seeking to position: 18.55044776119403
+2025-06-17 13:07:38,641 - INFO - Seeking to position: 19.875479744136463
+2025-06-17 13:07:38,657 - INFO - Seeking to position: 21.531769722814502
+2025-06-17 13:07:38,674 - INFO - Seeking to position: 23.188059701492538
+2025-06-17 13:07:38,690 - INFO - Seeking to position: 24.513091684434972
+2025-06-17 13:07:38,725 - INFO - Seeking to position: 26.16938166311301
+2025-06-17 13:07:40,126 - INFO - Seeking to position: 33.788315565031986
+2025-06-17 13:07:40,141 - INFO - Seeking to position: 27.49441364605544
+2025-06-17 13:07:40,175 - INFO - Seeking to position: 29.481961620469086
+2025-06-17 13:07:40,191 - INFO - Seeking to position: 30.806993603411517
+2025-06-17 13:07:40,224 - INFO - Seeking to position: 32.794541577825164
+2025-06-17 13:07:40,260 - INFO - Seeking to position: 34.11957356076759
+2025-06-17 13:07:40,293 - INFO - Seeking to position: 35.77586353944563
+2025-06-17 13:07:40,327 - INFO - Seeking to position: 37.43215351812367
+2025-06-17 13:07:41,745 - INFO - Playback stopped
+2025-06-17 13:07:41,747 - INFO - Playing at position: 0
+2025-06-17 13:07:41,747 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/Adele_-_Hello(128k).mp3 in 0.00s
+2025-06-17 13:07:41,748 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/Ali_Gatie_-_It's_You_(Official_Lyrics_Video)(128k).mp3
+2025-06-17 13:07:43,809 - INFO - Seeking to position: 14.374413646055437
+2025-06-17 13:07:44,007 - INFO - Seeking to position: 0.6844958879074017
+2025-06-17 13:07:44,040 - INFO - Seeking to position: 4.1069753274444105
+2025-06-17 13:07:44,057 - INFO - Seeking to position: 8.898446542796222
+2025-06-17 13:07:44,074 - INFO - Seeking to position: 13.005421870240632
+2025-06-17 13:07:44,090 - INFO - Seeking to position: 15.058909533962838
+2025-06-17 13:07:44,107 - INFO - Seeking to position: 16.427901309777642
+2025-06-17 13:07:44,124 - INFO - Seeking to position: 17.796893085592444
+2025-06-17 13:07:44,157 - INFO - Seeking to position: 19.165884861407246
+2025-06-17 13:07:44,174 - INFO - Seeking to position: 20.53487663722205
+2025-06-17 13:07:44,191 - INFO - Seeking to position: 22.588364300944257
+2025-06-17 13:07:44,208 - INFO - Seeking to position: 24.64185196466646
+2025-06-17 13:07:44,224 - INFO - Seeking to position: 27.379835516296065
+2025-06-17 13:07:44,241 - INFO - Seeking to position: 30.80231495583308
+2025-06-17 13:07:44,258 - INFO - Seeking to position: 33.54029850746269
+2025-06-17 13:07:44,273 - INFO - Seeking to position: 34.909290283277485
+2025-06-17 13:07:44,290 - INFO - Seeking to position: 36.27828205909229
+2025-06-17 13:07:44,324 - INFO - Seeking to position: 38.33176972281449
+2025-06-17 13:07:44,340 - INFO - Seeking to position: 39.7007614986293
+2025-06-17 13:07:44,374 - INFO - Seeking to position: 42.43874505025891
+2025-06-17 13:07:44,391 - INFO - Seeking to position: 44.49223271398111
+2025-06-17 13:07:44,407 - INFO - Seeking to position: 47.91471215351812
+2025-06-17 13:07:44,425 - INFO - Seeking to position: 54.07517514468474
+2025-06-17 13:07:44,442 - INFO - Seeking to position: 59.55114224794395
+2025-06-17 13:07:44,459 - INFO - Seeking to position: 65.71160523911057
+2025-06-17 13:07:44,475 - INFO - Seeking to position: 71.87206823027718
+2025-06-17 13:07:44,492 - INFO - Seeking to position: 75.97904355772158
+2025-06-17 13:07:44,507 - INFO - Seeking to position: 78.0325312214438
+2025-06-17 13:07:44,525 - INFO - Seeking to position: 79.4015229972586
+2025-06-17 13:26:48,454 - INFO - Pygame mixer initialized successfully
+2025-06-17 13:27:17,580 - INFO - Playback stopped
+2025-06-17 13:27:17,584 - INFO - Playing at position: 0
+2025-06-17 13:27:17,584 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/Camila_Cabello_-_Havana_(Official_Music_VIdeo)_ft._Young_Thug(128k).mp3 in 0.00s
+2025-06-17 13:27:17,584 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/Cardi_B_-_Bodak_Yellow_[OFFICIAL_MUSIC_VIDEO](128k).mp3
+2025-06-17 13:27:20,092 - INFO - Seeking to position: 3.7568077977459637
+2025-06-17 13:27:20,123 - INFO - Seeking to position: 5.25953091684435
+2025-06-17 13:27:20,141 - INFO - Seeking to position: 6.762254035942735
+2025-06-17 13:27:20,175 - INFO - Seeking to position: 9.016338714590313
+2025-06-17 13:27:20,190 - INFO - Seeking to position: 10.5190618336887
+2025-06-17 13:27:20,207 - INFO - Seeking to position: 14.275869631434663
+2025-06-17 13:27:20,224 - INFO - Seeking to position: 18.784038988729822
+2025-06-17 13:27:20,241 - INFO - Seeking to position: 23.292208346024978
+2025-06-17 13:27:20,257 - INFO - Seeking to position: 26.297654584221746
+2025-06-17 13:27:20,276 - INFO - Seeking to position: 29.30310082241852
+2025-06-17 13:27:21,741 - INFO - Seeking to position: 33.059908620164485
+2025-06-17 13:27:21,758 - INFO - Seeking to position: 35.313993298812065
+2025-06-17 13:27:21,774 - INFO - Seeking to position: 39.82216265610722
+2025-06-17 13:27:21,791 - INFO - Seeking to position: 44.330332013402376
+2025-06-17 13:27:21,806 - INFO - Seeking to position: 48.838501370697536
+2025-06-17 13:27:21,823 - INFO - Seeking to position: 53.34667072799269
+2025-06-17 13:27:21,840 - INFO - Seeking to position: 55.600755406640275
+2025-06-17 13:27:23,306 - INFO - Seeking to position: 58.60620164483704
+2025-06-17 13:27:23,324 - INFO - Seeking to position: 63.8657325616814
+2025-06-17 13:27:23,341 - INFO - Seeking to position: 72.1307097167225
+2025-06-17 13:27:23,356 - INFO - Seeking to position: 80.39568687176363
+2025-06-17 13:27:23,374 - INFO - Seeking to position: 86.40657934815718
+2025-06-17 13:27:23,390 - INFO - Seeking to position: 90.91474870545234
+2025-06-17 13:27:23,408 - INFO - Seeking to position: 92.41747182455072
+2025-06-17 13:27:23,424 - INFO - Seeking to position: 93.92019494364911
+2025-06-17 13:27:23,490 - INFO - Seeking to position: 96.17427962229668
+2025-06-17 13:27:23,509 - INFO - Seeking to position: 100.68244897959184
+2025-06-17 13:27:23,524 - INFO - Seeking to position: 108.19606457508377
+2025-06-17 13:27:23,542 - INFO - Seeking to position: 115.7096801705757
+2025-06-17 13:27:23,556 - INFO - Seeking to position: 121.72057264696923
+2025-06-17 13:27:23,574 - INFO - Seeking to position: 126.2287420042644
+2025-06-17 13:27:23,590 - INFO - Seeking to position: 128.48282668291196
+2025-06-17 13:27:28,293 - INFO - Playback stopped
+2025-06-17 13:27:28,295 - INFO - Playing at position: 0
+2025-06-17 13:27:28,296 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/Cardi_B_-_Bodak_Yellow_[OFFICIAL_MUSIC_VIDEO](128k).mp3 in 0.00s
+2025-06-17 13:27:28,296 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/Cardi_B_&_Bruno_Mars_-_Please_Me_(Official_Video)(128k).mp3
+2025-06-17 13:27:30,443 - INFO - Seeking to position: 3.48871154431922
+2025-06-17 13:27:30,456 - INFO - Seeking to position: 7.413512031678343
+2025-06-17 13:27:30,475 - INFO - Seeking to position: 14.827024063356687
+2025-06-17 13:27:30,492 - INFO - Seeking to position: 28.345781297593664
+2025-06-17 13:27:38,708 - INFO - Playback stopped
+2025-06-17 13:27:38,711 - INFO - Playing at position: 0
+2025-06-17 13:27:38,711 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/Cardi_B_&_Bruno_Mars_-_Please_Me_(Official_Video)(128k).mp3 in 0.00s
+2025-06-17 13:27:38,712 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/Charlie_Puth_-_Attention_[Official_Video](128k).mp3
+2025-06-17 13:27:40,723 - INFO - Seeking to position: 3.021918976545842
+2025-06-17 13:27:42,076 - INFO - Seeking to position: 0.8634054218702406
+2025-06-17 13:27:42,089 - INFO - Seeking to position: 2.158513554675601
+2025-06-17 13:27:42,107 - INFO - Seeking to position: 3.8853243984160826
+2025-06-17 13:27:42,123 - INFO - Seeking to position: 5.180432531221443
+2025-06-17 13:27:42,140 - INFO - Seeking to position: 6.907243374961925
+2025-06-17 13:27:42,157 - INFO - Seeking to position: 8.634054218702405
+2025-06-17 13:27:42,189 - INFO - Seeking to position: 10.792567773378009
+2025-06-17 13:27:42,206 - INFO - Seeking to position: 12.519378617118488
+2025-06-17 13:27:42,223 - INFO - Seeking to position: 14.24618946085897
+2025-06-17 13:27:42,240 - INFO - Seeking to position: 15.54129759366433
+2025-06-17 13:27:42,256 - INFO - Seeking to position: 17.26810843740481
+2025-06-17 13:27:42,290 - INFO - Seeking to position: 19.426621992080413
+2025-06-17 13:27:42,308 - INFO - Seeking to position: 20.721730124885774
+2025-06-17 13:27:44,442 - INFO - Seeking to position: 23.311946390496495
+2025-06-17 13:27:44,457 - INFO - Seeking to position: 25.90216265610722
+2025-06-17 13:27:44,473 - INFO - Seeking to position: 30.65089247639354
+2025-06-17 13:27:44,489 - INFO - Seeking to position: 36.694730429485226
+2025-06-17 13:27:44,507 - INFO - Seeking to position: 41.87516296070667
+2025-06-17 13:27:44,523 - INFO - Seeking to position: 45.76048735912275
+2025-06-17 13:27:44,540 - INFO - Seeking to position: 49.21410904660372
+2025-06-17 13:27:48,610 - INFO - Playback stopped
+2025-06-17 13:27:48,613 - INFO - Playing at position: 0
+2025-06-17 13:27:48,613 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/Charlie_Puth_-_Attention_[Official_Video](128k).mp3 in 0.00s
+2025-06-17 13:27:48,614 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/Dan_+_Shay,_Justin_Bieber_-_10,000_Hours_(Official_Music_Video)(128k).mp3
+2025-06-17 13:27:50,692 - INFO - Seeking to position: 0.4325312214438014
+2025-06-17 13:27:50,706 - INFO - Seeking to position: 1.7301248857752056
+2025-06-17 13:27:50,724 - INFO - Seeking to position: 5.190374657325616
+2025-06-17 13:27:50,740 - INFO - Seeking to position: 11.245811757538837
+2025-06-17 13:27:50,758 - INFO - Seeking to position: 19.463904964971064
+2025-06-17 13:27:50,774 - INFO - Seeking to position: 31.142247943953702
+2025-06-17 13:27:50,792 - INFO - Seeking to position: 43.25312214438014
+2025-06-17 13:27:50,807 - INFO - Seeking to position: 52.336277794699974
+2025-06-17 13:27:50,824 - INFO - Seeking to position: 58.391714894913186
+2025-06-17 13:27:50,840 - INFO - Seeking to position: 62.7170271093512
+2025-06-17 13:27:50,857 - INFO - Seeking to position: 64.01462077368261
+2025-06-17 13:27:57,962 - INFO - Playlist saved
+2025-06-17 13:28:18,759 - INFO - Playback stopped
+2025-06-17 13:57:00,979 - INFO - Pygame mixer initialized successfully
+2025-06-17 13:57:10,263 - INFO - Playback stopped
+2025-06-17 13:57:10,266 - INFO - Playing at position: 0
+2025-06-17 13:57:10,266 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/3_Doors_Down_-_Here_Without_You_(Official_Video)(128k).mp3 in 0.00s
+2025-06-17 13:57:10,266 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/5_Seconds_of_Summer_-_Easier(128k).mp3
+2025-06-17 13:57:12,562 - INFO - Playback stopped
+2025-06-17 14:09:10,024 - INFO - Pygame mixer initialized successfully
+2025-06-17 14:25:43,890 - INFO - Pygame mixer initialized successfully
+2025-06-17 14:25:52,966 - INFO - Playback stopped
+2025-06-17 14:25:52,969 - INFO - Playing at position: 0
+2025-06-17 14:25:52,969 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/3_Doors_Down_-_Here_Without_You_(Official_Video)(128k).mp3 in 0.00s
+2025-06-17 14:25:52,969 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/5_Seconds_of_Summer_-_Easier(128k).mp3
+2025-06-17 14:25:55,403 - INFO - Seeking to position: 3.0073862075805664
+2025-06-17 14:25:56,048 - INFO - Seeking to position: 4.582113265991211
+2025-06-17 14:25:56,349 - INFO - Seeking to position: 5.582113265991211
+2025-06-17 14:25:56,450 - INFO - Seeking to position: 6.582113265991211
+2025-06-17 14:25:56,550 - INFO - Seeking to position: 7.582113265991211
+2025-06-17 14:25:56,650 - INFO - Seeking to position: 8.582113265991211
+2025-06-17 14:25:57,681 - INFO - Seeking to position: 6.592506853487664
+2025-06-17 14:25:57,697 - INFO - Seeking to position: 10.108510508681084
+2025-06-17 14:25:57,714 - INFO - Seeking to position: 13.185013706975328
+2025-06-17 14:25:57,731 - INFO - Seeking to position: 16.261516905269573
+2025-06-17 14:25:57,747 - INFO - Seeking to position: 20.656521474261346
+2025-06-17 14:25:57,765 - INFO - Seeking to position: 25.491026500152298
+2025-06-17 14:25:57,782 - INFO - Seeking to position: 29.4465306122449
+2025-06-17 14:25:57,798 - INFO - Seeking to position: 33.4020347243375
+2025-06-17 14:25:57,814 - INFO - Seeking to position: 37.3575388364301
+2025-06-17 14:25:57,830 - INFO - Seeking to position: 41.31304294852269
+2025-06-17 14:25:57,847 - INFO - Seeking to position: 46.14754797441365
+2025-06-17 14:25:57,863 - INFO - Seeking to position: 50.982053000304596
+2025-06-17 14:25:57,882 - INFO - Seeking to position: 56.69555893999391
+2025-06-17 14:25:57,897 - INFO - Seeking to position: 62.409064879683214
+2025-06-17 14:25:57,914 - INFO - Seeking to position: 67.24356990557418
+2025-06-17 14:25:57,930 - INFO - Seeking to position: 70.75957356076759
+2025-06-17 14:25:57,948 - INFO - Seeking to position: 72.51757538836429
+2025-06-17 14:26:06,182 - INFO - Playback stopped
+2025-06-17 14:26:06,185 - INFO - Playing at position: 0
+2025-06-17 14:26:06,185 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/5_Seconds_of_Summer_-_Easier(128k).mp3 in 0.00s
+2025-06-17 14:26:06,185 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/Adele_-_Hello(128k).mp3
+2025-06-17 14:26:09,199 - INFO - Playback stopped
+2025-06-17 14:26:09,201 - INFO - Playing at position: 0
+2025-06-17 14:26:09,201 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/Adele_-_Hello(128k).mp3 in 0.00s
+2025-06-17 14:26:09,201 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/Ali_Gatie_-_It's_You_(Official_Lyrics_Video)(128k).mp3
+2025-06-17 14:26:16,117 - INFO - Playlist saved
+2025-06-17 14:26:31,183 - INFO - Playback stopped
+2025-06-17 14:26:31,186 - INFO - Playing at position: 0
+2025-06-17 14:26:31,186 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/Ariana_Grande_-_break_up_with_your_girlfriend,_i'm_bored(128k).mp3 in 0.00s
+2025-06-17 14:26:31,187 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/Ariana_Grande_-_no_tears_left_to_cry(128k).mp3
+2025-06-17 14:26:36,198 - INFO - Playback stopped
+2025-06-17 14:26:36,199 - INFO - Playback stopped
+2025-06-17 14:26:36,202 - INFO - Playing at position: 0
+2025-06-17 14:26:36,202 - INFO - Loaded /Users/sagor/Desktop/AUDIOS/Ali_Gatie_-_It's_You_(Official_Lyrics_Video)(128k).mp3 in 0.00s
+2025-06-17 14:26:36,203 - INFO - Queued next track: /Users/sagor/Desktop/AUDIOS/Adele_-_Hello(128k).mp3
+2025-06-17 14:26:42,566 - INFO - Playback stopped
+2025-06-17 14:50:07,436 - INFO - Pygame mixer initialized successfully
