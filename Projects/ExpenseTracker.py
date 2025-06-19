@@ -3,6 +3,7 @@ from tkinter import messagebox
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
+
 class ExpenseTracker:
     def __init__(self, root):
         self.root = root
