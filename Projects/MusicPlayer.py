@@ -31,7 +31,6 @@ class MusicPlayer:
         logging.basicConfig(filename="music_player.log", level=logging.DEBUG,
                            format="%(asctime)s - %(levelname)s - %(message)s")
 
-
         #Initialize pygame mixer with optimized settings
         try:
             pygame.mixer.init(frequency=44100, size=-16, channels=2, buffer=self.AUDIO_BUFFER)
